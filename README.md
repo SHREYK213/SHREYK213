@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Python and ASPdotNet Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **ASP.Net Core and Entity Framework**
+- 💬 Ask me about **ASP.Net Core and Python**
 
 - 📫 How to reach me **shreyaspoojary240@gmail.com**
 
