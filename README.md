@@ -3,15 +3,14 @@
 <img align="right" alt="CatCoding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 
-- 🔭 I’m currently working on **Python and ASPdotNet Development**
+- 🔭 I’m currently working on **Full-Stack development**
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **ASP.Net Core and Python**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **shreyaspoojary240@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I0rhYh0jBX_STsHWE0ynFT7PVRTLEqwa/view?usp=sharing)
 
 - ⚡ Fun fact **Cats will soon take over the world**
 
