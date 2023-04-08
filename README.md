@@ -2,8 +2,6 @@
 <h3 align="center">A Full Stack Developer</h3>
 <img align="right" alt="CatCoding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyk213" alt="shreyk213" /></a> </p>
-
 - 🔭 I’m currently working on **Node.js**
 
 - 🌱 I’m currently learning **Django and Node.js**
