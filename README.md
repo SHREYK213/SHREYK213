@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<img align="right" alt="CatCoding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+<img align="right" alt="CatCoding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 - 🔭 I’m currently working on **Node.js**
 
