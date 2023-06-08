@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<!-- <img align="right" alt="CatCoding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"> -->
-<img align="right" width="500" alt="about" src="https://github.com/SHREYK213/SHREYK213/assets/98221778/f5883ff2-abc6-4e3c-9a7a-924c43ac16a7">
+<img align="right" alt="CatCoding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+<!-- <img align="right" width="500" alt="about" src="https://github.com/SHREYK213/SHREYK213/assets/98221778/f5883ff2-abc6-4e3c-9a7a-924c43ac16a7"> -->
 
 - 🔭 I’m currently working on **Node.js**
 
