@@ -32,10 +32,10 @@ When I'm not writing code, I'm probably watching a cat walk across a keyboard an
  
 ---
  
-## 🏆 GitHub Trophies
- 
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=SHREYK213&theme=algolia&no-frame=true&margin-w=10&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHREYK213&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" />
 </p>
  
 ---
